@@ -16,3 +16,7 @@ Let (X1,Y1) be the numbers on the ball drawn from the (X,Y) sub-urn. Let X2 be t
 (X,Y) = (X1+X2,Y1+Y2).
 Problem 1: 
 P(X,Y)=P(Z)*P(X,Y|Z)
+
+
+1. Fragement the probility
+2. according to the probability to updata the corresponding probability
