@@ -1,3 +1,12 @@
+Expectation Maximization: 
+When to use: 
+1. Data is only partially observable
+2. Unsupervised Clustering(target value unobservable)
+3. Surpervised learning(some instance attributes unobservable)
+
+1. Expectation Step:
+2. Maximization Step
+
 # EM-Shift-Invariant-models
 Drawing procedure: At each draw the drawing process performs the following operations.
 
